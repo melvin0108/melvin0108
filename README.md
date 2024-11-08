@@ -7,7 +7,7 @@
 
 - 📧 For any professional inquiries, please reach out to me at **melvinforwork@gmail.com**
 
-- 📑 To gain a comprehensive understanding of my professional journey, please refer to my resume [PDF](https://drive.google.com/file/d/14_8SugEAT7c-IFvKSYFzjh5guflL3U2t/view?usp=sharing)
+- 📑 To gain a comprehensive understanding of my professional journey, please refer to my resume [PDF](https://drive.google.com/file/d/1utmVCj7gluFXB0yZcFsDu9tnvvzQwabr/view?usp=sharing)
 
 
 ## 📫 How to reach me: <a href="https://melvinforwork@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="melvinforwork@gmail.com" height="30" width="40" /></a><a href="https://www.facebook.com/baominh0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/melvin-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
