@@ -53,9 +53,9 @@
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
 
- <!--br>
-<! If you forked this repo, Change the username as yours -->
-  <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0108&theme=radical&langs_count=3" />
+ <br>
+<!-- If you forked this repo, Change the username as yours -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0108&theme=radical&langs_count=3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melvin0108&show_icons=true&theme=radical&line_height=27" />
    
-<!--br>
+<br>
